@@ -5,3 +5,4 @@ src/build.log
 src/vagrant/.vagrant/*
 src/vagrant/*.log
 src/workspace/*
+.idea
